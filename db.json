@@ -5,10 +5,10 @@
     {"ID": 3, "descr": "Soil"},
     {"ID": 4, "descr": "Cold Frame"}
     ],
-    "XXX": [
-    {"ID": 1, "descr": "xWindowsill"},
-    {"ID": 2, "descr": "xGreenhouse"},
-    {"ID": 3, "descr": "xSoil"},
-    {"ID": 4, "descr": "xCold Frame"}
+    "lkpQtyType": [
+    {"ID": 1, "descr": "Seed"},
+    {"ID": 2, "descr": "Bulb"},
+    {"ID": 3, "descr": "PLant"},
+    {"ID": 4, "descr": "Row"}
     ]  
 } 
