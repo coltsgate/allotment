@@ -10,5 +10,25 @@
     {"ID": 2, "descr": "Bulb"},
     {"ID": 3, "descr": "PLant"},
     {"ID": 4, "descr": "Row"}
-    ]  
+    ],
+     "lkpCropType": [
+    {"ID": 1, "descr": "Veg"},
+    {"ID": 2, "descr": "Fruit"},
+    {"ID": 3, "descr": "Flower"},
+    {"ID": 4, "descr": "Herb"}
+    ],
+     "lkpMonth": [
+     {"ID":1, "monthname":"Jan"},
+     {"ID":2, "monthname":"Feb"},
+     {"ID":3, "monthname":"March"},
+     {"ID":4, "monthname":"April"},
+     {"ID":5, "monthname":"May"},
+     {"ID":6, "monthname":"June"},
+     {"ID":7, "monthname":"July"},
+     {"ID":8, "monthname":"Aug"},
+     {"ID":9, "monthname":"Sept"},
+     {"ID":10, "monthname":"Oct"},
+     {"ID":11, "monthname":"Nov"},
+     {"ID":12, "monthname":"Dec"}   
+    ]
 } 
