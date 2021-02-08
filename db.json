@@ -4,5 +4,11 @@
     {"ID": 2, "descr": "Greenhouse"},
     {"ID": 3, "descr": "Soil"},
     {"ID": 4, "descr": "zzCold Frame"}
-    ]
+    ],
+    "XXX": [
+    {"ID": 1, "descr": "xWindowsill"},
+    {"ID": 2, "descr": "xGreenhouse"},
+    {"ID": 3, "descr": "xSoil"},
+    {"ID": 4, "descr": "xCold Frame"}
+    ]  
 } 
