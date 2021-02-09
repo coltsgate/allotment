@@ -31,6 +31,10 @@
      {"ID":11, "monthname":"Nov"},
      {"ID":12, "monthname":"Dec"}   
     ],
-    "lkpCrop": [
- {"ID":1, "cropTypeID":1, "cropName":"Celery"}]
+     "lkpCrop": [
+    {"ID": 1, "descr": "Veg"},
+    {"ID": 2, "descr": "Fruit"},
+    {"ID": 3, "descr": "Flower"},
+    {"ID": 4, "descr": "Herb"}
+    ]
 } 
