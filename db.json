@@ -21,15 +21,8 @@
      {"ID":1, "monthname":"Jan"},
      {"ID":2, "monthname":"Feb"},
      {"ID":3, "monthname":"March"},
-     {"ID":4, "monthname":"April"},
-     {"ID":5, "monthname":"May"},
-     {"ID":6, "monthname":"June"},
-     {"ID":7, "monthname":"July"},
-     {"ID":8, "monthname":"Aug"},
-     {"ID":9, "monthname":"Sept"},
-     {"ID":10, "monthname":"Oct"},
-     {"ID":11, "monthname":"Nov"},
-     {"ID":12, "monthname":"Dec"}   
+     {"ID":4, "monthname":"April"}
+ 
     ],
      "lkpCrop": [
  {"ID":1, "cropTypeID":1, "cropName":"Celery"},
