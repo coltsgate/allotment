@@ -35,6 +35,6 @@
  {"ID":1, "cropTypeID":1, "cropName":"Celery"},
  {"ID":2, "cropTypeID":1, "cropName":"Radish"},
  {"ID":3, "cropTypeID":1, "cropName":"Salsify"},
- {"ID":4, "cropTypeID":1, "cropName":"Squash - Butternut"},
+ {"ID":4, "cropTypeID":1, "cropName":"Squash - Butternut"}
   ]    
 } 
