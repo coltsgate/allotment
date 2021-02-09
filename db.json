@@ -36,7 +36,7 @@
 
     ],
         "lkpPlanting": [
-    {"ID": 1, "descr": "Windowsill"},
-    {"ID": 2, "descr": "Greenhouse"}
+    {"ID":"1", "cropID": "2", "varietyID":"2", "qtyTypeID":"1","qty":"12","qtygerm":"9","plantDate":"2015-02-07","germDate":"2015-03-01","harvestdate":"14/06/2015","note":""},
+{"ID":"14","cropID": "3", "varietyID":"3","qtyTypeID":"1","qty":"16","qtygerm":"16","plantDate":"2015-02-07","germDate":"2015-03-01","harvestdate":"14/06/2015","note":"Produced enough for 1"}
     ]
 } 
