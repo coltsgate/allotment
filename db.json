@@ -31,12 +31,12 @@
  {"ID":4, "cropTypeID":1, "cropName":"Squash - Butternut"}
     ],
     "lkpVariety": [
-     {"ID":2, "cropID":2, "varietyname":"Mantanghong F1", "startmonthID":5, "endmonthID":7, "startenvID":3, "germination":"0", "starttemp":"", "depth":"0.50", "apartdist":"15", "rowdist":"15", "height":"0", "harvest":"", "plantnote":"Very poor growth"},
-    {"ID":3, "cropID":3, "varietyname":"Sandwich Island", "startmonthID":3, "endmonthID":5, "startenvID":3, "germination":"8-21", "starttemp":"", "depth":"2.00", "apartdist":"15", "rowdist":"15", "height":"0", "harvest":"", "plantnote":""}
+     {"ID":2, "cropID":2, "varietyname":"Mantanghong F1", "startmonthID":5, "endmonthID":7},
+    {"ID":3, "cropID":3, "varietyname":"Sandwich Island", "startmonthID":3, "endmonthID":5}
 
     ],
         "lkpPlanting": [
-    {"ID":"1", "cropID": "2", "varietyID":"2", "qtyTypeID":"1","qty":"12","qtygerm":"9","plantDate":"2015-02-07","germDate":"2015-03-01","harvestdate":"14/06/2015","note":""},
-{"ID":"14","cropID": "3", "varietyID":"3","qtyTypeID":"1","qty":"16","qtygerm":"16","plantDate":"2015-02-07","germDate":"2015-03-01","harvestdate":"14/06/2015","note":"Produced enough for 1"}
+    {"ID":"1", "cropID": "2", "varietyID":"2", "qtyTypeID":"1","qty":"12"},
+{"ID":"14","cropID": "3", "varietyID":"3","qtyTypeID":"1","qty":"16"}
     ]
 } 
