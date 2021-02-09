@@ -5,7 +5,7 @@
     {"ID": 3, "descr": "Soil"},
     {"ID": 4, "descr": "Cold Frame"}
     ],
-    "lkpQtyType": [
+    "lkpUnit": [
     {"ID": 1, "descr": "Seed"},
     {"ID": 2, "descr": "Bulb"},
     {"ID": 3, "descr": "PLant"},
