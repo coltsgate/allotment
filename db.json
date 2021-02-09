@@ -28,14 +28,5 @@
  {"ID":2, "cropTypeID":1, "cropName":"Radish"},
  {"ID":3, "cropTypeID":1, "cropName":"Salsify"},
  {"ID":4, "cropTypeID":1, "cropName":"Squash - Butternut"}
-    ],
-    "lkpVariety": [
-     {"ID":2, "cropID":2, "varietyname":"Mantanghong F1", "startmonthID":5, "endmonthID":7},
-    {"ID":3, "cropID":3, "varietyname":"Sandwich Island", "startmonthID":3, "endmonthID":5}
-
-    ],
-        "lkpPlanting": [
-    {"ID":"1", "cropID": "2", "varietyID":"2", "qtyTypeID":"1","qty":"12"},
-{"ID":"14","cropID": "3", "varietyID":"3","qtyTypeID":"1","qty":"16"}
     ]
 } 
